@@ -7,6 +7,9 @@ Shimmer is an easy way to add a shimmering effect to any view in your app. It's 
   - Copy Shimmer.js file to your project
   - Now install from here [React Native Linear Gradient](https://github.com/react-native-community/react-native-linear-gradient) 
   - After installation link libraries `react-native link`
+
+## Shimmer Effect
+![Alt text](shimmer.gif "https://github.com/facebook/Shimmer")
  
 ## How to use
 
