@@ -9,7 +9,7 @@ Shimmer is an easy way to add a shimmering effect to any view in your app. It's 
   - After installation link libraries `react-native link`
 
 ## Shimmer Effect
-![Alt text](shimmer.gif "https://github.com/facebook/Shimmer")
+![Alt text](shimmer1.gif "https://github.com/facebook/Shimmer")
  
 ## How to use
 
